@@ -1,6 +1,6 @@
 {
   "name": "depth-first-map",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Map a tree of arrays in pre-order depth-first",
   "main": "index.js",
   "dependencies": {
